@@ -1,4 +1,1 @@
-hi in this project i have just used MERN stack with tailwind css for styling this project work perfectly when a
-user is regiter along with its role and authenthicate user during login and also server can manage a session for user mean it track when a user visit website 
-and cannot access the routes without log in first also i have just used 3 roles manager,hr and receptionist when only user with each can access it pages only not other and 
-restrict a user not to accesss the other pages 
+In this project, I implemented the MERN stack with Tailwind CSS for styling. The project functions flawlessly by allowing users to register with specified roles and authenticate during login. The server effectively manages user sessions to track website visits and restrict access to routes without prior login. Three distinct roles - manager, HR, and receptionist - grant access to specific pages, while preventing unauthorized access to others.
